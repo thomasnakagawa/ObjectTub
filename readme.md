@@ -28,3 +28,5 @@ PoolableObject usage:
               			Release allocated resources
               			Stop particle effects
 						
+Making a build of the package:
+	1: In Unity, do Assets -> Export Package and select all asset files
