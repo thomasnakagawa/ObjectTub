@@ -6,7 +6,7 @@ Object tub is a simple and easy to use object pooling system for Unity games.
 
 ## Usage setup:
 - Import ObjectTub.unitypackage into your project.
-- Make sure to include the core folder in the import, the example and documentation folders are optional.
+- Make sure to include scripts and prefab in the import, the example folder is optional.
 - Use the ObjectPool and PoolableObject classes as explained below:
 
 ## ObjectPool usage:
